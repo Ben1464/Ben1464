@@ -1,9 +1,13 @@
 let person = {
 
 firstName: "Benson"
+
 lastName: "Mwangi";
+
 stack: "javaScript","react","python";
+
 status: "currently learning"
+
 ambitions: "to be a fullstack developer"
 
 }
