@@ -1,4 +1,4 @@
-let person = {
+let me = {
 
 firstName: "Benson"
 
@@ -12,7 +12,7 @@ ambitions: "to be a fullstack developer"
 
 }
 
-console.log(person);
+console.log(me);
 
 - 🌱 I’m currently learning JavaScript,React, and Python
 - 📫 How to reach me: kimaniben14@gmail.com
