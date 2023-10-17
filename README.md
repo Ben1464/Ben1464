@@ -1,16 +1,15 @@
-### Hi there 👋
+let person = {
 
-<!--
-**Ben1464/Ben1464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+firstName: "Benson"
+lastName: "Mwangi";
+stack: "javaScript","react","python";
+status: "currently learning"
+ambitions: "to be a fullstack developer"
 
-Here are some ideas to get you started:
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(person);
+
+- 🌱 I’m currently learning JavaScript,React, and Python
+- 📫 How to reach me: kimaniben14@gmail.com
+- ⚡ Fun fact: Open to learning more about tech stuff.
