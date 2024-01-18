@@ -4,7 +4,7 @@ firstName: "Benson"
 
 lastName: "Mwangi";
 
-stack: "HTML", "JavaScript", "React js", "Python";
+stack: "HTML", "JavaScript", "Node.js","React js", "Python",SQL;
 
 status: "currently learning"
 
