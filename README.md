@@ -16,5 +16,7 @@ console.log(me);
 
 
 - 🌱 I’m currently learning JavaScript, React, and Python
-- 📫 How to reach me: kimaniben14@gmail.com
+- Portfolio https://ben1464.github.io/My-Portfolio/
+- 📫 How to reach me: kimaniben14@gmail.com  
 - ⚡ Fun fact: Open to learning more about tech stuff.
+  
