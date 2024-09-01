@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@kimanibenson18" target="blank"><img src="https://img.shields.io/twitter/follow/@kimanibenson18?logo=twitter&style=for-the-badge" alt="@kimanibenson18" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js and Python Flask**
+- 🌱 I’m currently learning **Next Js and Python Flask.**
 
-- 👨‍💻 All of my projects are available at [https://benson14.vercel.app/](https://benson14.vercel.app/)
-
-- 💬 Ask me about **Vanilla JavaScript, React Js.**
+- 💬 Ask me about **Vanilla JavaScript, React Js, Python.**
 
 - 📫 How to reach me **kimaniben14@gmail.com**
 
-- ⚡ Fun fact **Learning and stacking my tech skills**
+- ⚡ Fun fact **Stacking my tech skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
