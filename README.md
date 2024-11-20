@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **kimaniben14@gmail.com**
 
-- Website **https://biblioth.vercel.app/**
-
 - ⚡ Fun fact **Stacking my tech skills.**
 
 <h3 align="left">Connect with me:</h3>
